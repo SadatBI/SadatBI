@@ -1,16 +1,23 @@
-## Hi there 👋
+ <h2>Hi, I'm Sadat! <br/> <a> Data Analyst </a>, <!--using ma github overview link  -->
+  <a> Business Analyst </a>, <!--github link -->
+  <a> Statistical Analyst. </a>  <!--github link --> 
+</h2>
+ 
+ <h3> Data Analysis Projects: </h3>
 
-<!--
-**SadatBI/SadatBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 
+[Zeno Mart Analysis](insert-repository-link-here)
+#### 
+ [Expressmart Dashboard](insert-repository-link-here)
+#### 
+ [Employee Attrition Analysis](insert-repository-link-here)
+ 
+<h3> Business Analysis Projects: </h3>
 
-Here are some ideas to get you started:
+#### 
+[Nebulon Financial Data](insert-repository-link-here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Statistical Analysis Projects: </h3>
+
+#### 
+[comparative Analysis between free and non free SHS](insert-repository-link-here)
