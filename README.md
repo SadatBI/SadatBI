@@ -6,7 +6,7 @@
  <h3> Data Analysis Projects: </h3>
 
 #### 
-[Zeno Mart Analysis](insert-repository-link-here)
+[Zeno Mart Analysis](https://github.com/SadatBI/data-analysis/tree/main/zeno-mart-analysis)
 #### 
  [Expressmart Dashboard](insert-repository-link-here)
 #### 
