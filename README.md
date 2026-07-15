@@ -10,7 +10,7 @@
 #### 
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
 #### 
- [Employee Attrition Analysis](ihttps://github.com/SadatBI/data-analysis/tree/main/employee-attrition-analysis)
+ [Employee Attrition Analysis](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
  
 <h3> Business Analysis Projects: </h3>
 
