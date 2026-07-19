@@ -9,11 +9,14 @@
 #### 
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
 #### 
- [Employee Attrition Analysis](https://github.com/SadatBI/data-analysis/tree/main/employee-attrition-analysis/data)
+[comparative Analysis (Final Year Project)](insert-repository-link-here)
+
+
+<h3> Business Intelligence </h3>
+
+#### 
+ [Employee Attrition Analysis](https://github.com/SadatBI/Business-Intelligence/tree/main/employee%20attrition%20analysis)
 #### 
 [Nebulon Financial Data](https://github.com/SadatBI/Business-Analysis-/tree/main/nebulon%20financial%20data)
 
-<h3> Statistical Analysis Projects: </h3>
 
-#### 
-[comparative Analysis between free and non free SHS](insert-repository-link-here)
