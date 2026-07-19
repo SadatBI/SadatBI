@@ -1,9 +1,8 @@
- <h2>Hi, I'm Sadat! <br/> <a> Data Analyst </a>, <!--using ma github overview link  -->
-  <a> Business Analyst </a>, <!--github link -->
-  <a> Statistical Analyst. </a>  <!--github link --> 
+ <h2>Hi there, I'm Sadat! <br/> 
+  <a> Aspiring Data Analyst </a>
 </h2>
  
- <h3> Data Analysis Projects: </h3>
+ <h3> Portfolio Projects: </h3>
 
 #### 
 [Zeno Mart Analysis](https://github.com/SadatBI/data-analysis/tree/main/zeno-mart-analysis)
@@ -11,9 +10,6 @@
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
 #### 
  [Employee Attrition Analysis](https://github.com/SadatBI/data-analysis/tree/main/employee-attrition-analysis/data)
- 
-<h3> Business Analysis Projects: </h3>
-
 #### 
 [Nebulon Financial Data](https://github.com/SadatBI/Business-Analysis-/tree/main/nebulon%20financial%20data)
 
