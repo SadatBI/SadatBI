@@ -1,5 +1,5 @@
  <h2>Hi there, I'm Sadat! <br/> 
-  <a> Aspiring Data Analys & Business Analystt </a>
+  <a> Aspiring Data Analyst & Business Analyst </a>
 </h2>
  
  <h3> Portfolio Projects: </h3>
