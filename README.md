@@ -9,7 +9,7 @@
 #### 
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
 #### 
-[comparative Analysis (Final Year Project)](https://github.com/SadatBI/final-year-project)
+[comparative Analysis (Final Year Project)](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
 
 
 <h3> Business Intelligence </h3>
