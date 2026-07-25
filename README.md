@@ -2,14 +2,12 @@
   <a> Aspiring Data Analyst & Business Analyst </a>
 </h2>
  
- <h3> Portfolio Projects: </h3>
+ <h3> Data Analytics: </h3>
 
 #### 
 [Zeno Mart Analysis](https://github.com/SadatBI/data-analysis/tree/main/zeno-mart-analysis)
 #### 
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
-#### 
-[comparative Analysis (Final Year Project)](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
 
 
 <h3> Business Intelligence </h3>
@@ -20,3 +18,7 @@
 [Nebulon Financial Data](https://github.com/SadatBI/Business-Analysis-/tree/main/nebulon%20financial%20data)
 
 
+ <h3> Final Year Project: </h3>
+ 
+#### 
+[comparative Analysis](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
