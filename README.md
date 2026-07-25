@@ -21,4 +21,4 @@
  <h3> Final Year Project: </h3>
  
 #### 
-[comparative Analysis](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
+[comparative Analysis of Free-SHS and Non Free-SHS](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
