@@ -20,9 +20,9 @@
 <h3> Excel Projects: </h3>
 
 #### 
-[Zeno Mart Analysis](https://github.com/SadatBI/data-analysis/tree/main/zeno-mart-analysis)
+ [Expressmart Dashboard](https://github.com/SadatBI/Excel-Projects/tree/main/ExpressMart%20analysis)
 #### 
- [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
+[Zeno Mart Analysis](https://github.com/SadatBI/Excel-Projects/tree/main/zeno-mart-analysis)
 
 ---
  <h3> Final Year Project: </h3>
