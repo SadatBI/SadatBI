@@ -2,7 +2,7 @@
   <a> Aspiring Data Analyst & Business Analyst </a>
 </h2>
  
- <h3> Data Analytics: </h3>
+ <h3> Excel Projects: </h3>
 
 #### 
 [Zeno Mart Analysis](https://github.com/SadatBI/data-analysis/tree/main/zeno-mart-analysis)
@@ -10,7 +10,7 @@
  [Expressmart Dashboard](https://github.com/SadatBI/data-analysis/tree/main/expressmart-dashboard)
 
 
-<h3> Business Intelligence </h3>
+<h3> Power BI Projects </h3>
 
 #### 
  [Employee Attrition Analysis](https://github.com/SadatBI/Business-Intelligence/tree/main/employee%20attrition%20analysis)
