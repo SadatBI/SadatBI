@@ -29,9 +29,3 @@
  
 #### 
 [comparative Analysis of Free-SHS and Non Free-SHS](https://github.com/SadatBI/Free-vs-NonFree-SHS-Performance)
-
----
-
-## 📫 Let's Connect!
-* **LinkedIn:** [Your Name](https://linkedin.com)
-* **Email:** your.email@example.com
