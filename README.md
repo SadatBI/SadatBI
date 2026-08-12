@@ -7,6 +7,8 @@
 
 #### 
 [Health care analytics](https://github.com/SadatBI/sql_project/tree/main/Health%20care%20analytics)
+#### 
+[Retail_banking_analytics](https://github.com/SadatBI/sql_project/tree/main/Retail_banking_analytics)
 
 ---
 <h3> 📈 Power BI Projects </h3>
